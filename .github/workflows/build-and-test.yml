@@ -1,4 +1,4 @@
-name: KeebDB CI
+name: KeebDB Frontend CI
 on:
   push:
     branches: [ main ]
